@@ -1,0 +1,8 @@
+<a href='#Game_1'>Anand, V. - Caruana, F.</a>
+<a href='#Game_2'>Grischuk, A. - Vachier Lagrave, M.</a>
+<a href='#Game_3'>Kasparov, G. - Nepomniachtchi, I.</a>
+<a href='#Game_4'>Caruana, F. - Carlsen, M.</a>
+<a href='#Game_1'>Anand, V. - Caruana, F.</a>
+<a href='#Game_2'>Grischuk, A. - Vachier Lagrave, M.</a>
+<a href='#Game_3'>Kasparov, G. - Nepomniachtchi, I.</a>
+<a href='#Game_4'>Caruana, F. - Carlsen, M.</a>
